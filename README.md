@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/loving-arms/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Loving Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-arms/) |
+| **Get License** | [Secure Licensing Rights for Loving Arms](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/loving-arms/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Slide right into my loving arms,
+> Far away from the world's alarms,
+> Let the shadows and our bodies blend,
+> Where the night is never gonna end... Gonna end..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
